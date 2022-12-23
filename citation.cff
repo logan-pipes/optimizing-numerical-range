@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Pipes"
+  given-names: "Logan"
+title: "optimizing-numerical-range"
+version: 1.0.0
+date-released: 2022-12-23
+url: "https://github.com/logan-pipes/optimizing-numerical-range"
+references:
+  - authors:
+      - family-names: Johnston
+        given-names: Nathaniel
+      - family-names: Pipes
+        given-names: Logan
+    title: Bounding Real Tensor Optimizations via the Numerical Range
+    type: article
+  - authors:
+      - family-names: Johnston
+        given-names: Nathaniel
+    title: QETLAB
+    type: software
+    version: 0.9
+    url: "https://qetlab.com"
+    doi: 10.5281/zenodo.44637
+  - authors:
+      - family-names: Boyd
+        given-names: Stephen
+      - family-names: Grant
+        given-names: Michael
+    title: "CVX: Matlab Software for Disciplined Convex Programming"
+    type: software
+    version: 2.1
+    url: "http://cvxr.com/cvx"
